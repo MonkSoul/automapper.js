@@ -81,6 +81,7 @@ automapper.map("src", "dest", srcObj, destObj);
 ### 开源地址
 
 - 码云地址：[automapper.js](https://gitee.com/monksoul/automapper.js)
+- Github地址：[automapper.js](https://github.com/MonkSoul/automapper.js)
 
 ### 喜欢就 `star` 一下
 
