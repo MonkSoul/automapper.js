@@ -6,7 +6,6 @@
 - 开发时间：2018年03月21日
 - 当前版本：`1.0.0`
 - 项目名称：[automapper.js](https://gitee.com/monksoul/automapper.js)
-- 联系方式：QQ/8020292
 - 压缩版本：`1KB`
 
 
